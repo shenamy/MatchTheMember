@@ -5,5 +5,4 @@ This app allows new members of Mobile Developers at Berkeley to familiarize them
 Mobile Dev Concepts:
 Mostly basics: introduction to view controllers, data types/variables
 
-![pic1](https://cloud.githubusercontent.com/assets/25167602/24979078/c77ac004-1f87-11e7-841a-d5987a6854a0.jpg)
-![pic12](https://cloud.githubusercontent.com/assets/25167602/24979210/39666e3e-1f88-11e7-9bbc-5238430e3090.jpg)
+![pic1](https://cloud.githubusercontent.com/assets/25167602/25026221/53ab9350-205a-11e7-8a59-0b87b443d6e0.png)  ![pic12](https://cloud.githubusercontent.com/assets/25167602/25026232/5f88a050-205a-11e7-865a-9f568a75cb6f.png)
